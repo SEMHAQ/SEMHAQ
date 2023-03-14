@@ -9,7 +9,7 @@
 
 - ❓ Ask me about anything related to Android.  
 
-[MyNotebook Here!](https://semhaq.github.io/NoteBook/)
+<a href="https://semhaq.github.io/NoteBook/" target="_blank">MyNotebook Here!</a>
   
 
 <br/>  
