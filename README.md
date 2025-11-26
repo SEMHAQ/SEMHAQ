@@ -72,8 +72,7 @@
 
 
 ## Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<br/>  
+[![SEMHAQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEMHAQ)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Recent Blog Posts  
