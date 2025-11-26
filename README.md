@@ -72,7 +72,7 @@
 
 
 ## Github Stats  
-[![SEMHAQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=semhaq)](https://github.com/anuraghazra/github-readme-stats)
+[![SEMHAQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=semhaq)]
 
 ## Recent Blog Posts  
   
